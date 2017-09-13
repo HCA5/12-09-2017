@@ -4,4 +4,4 @@ BUZZER + LDR + ARDUINO
 
 Descrição do desafio:
 
-Causar alterações sonoras no BUZZER com um intervalo de tempo igual ao valor de luminosidade registrado no LDR
+Causar alterações sonoras no BUZZER com um intervalo de tempobaseado na luminosidade registrada no LDR
